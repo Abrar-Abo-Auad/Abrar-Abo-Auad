@@ -1,10 +1,10 @@
-<div align="center">
+
 <h1> Hi there, I'm Abrar 👋 </h1>
 <h3> 👩‍💻 Frontend Developer (Web & Mobile) | 🧠 AI Engineering Student </h3>
 
 <p> Entering my 4th year of Informatics Engineering at <b>Damascus University ('28)</b>. Specializing in <b>Artificial Intelligence</b> while actively building pixel-perfect, highly responsive frontend applications. </p>
 
-<p align="center">
+<p>
   <a href="cv_link_comming_soon" target="_blank">
     <img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=google-drive&logoColor=FFD700" alt="CV" />
   </a>
