@@ -35,7 +35,6 @@ I am an engineering student with a dual passion for building seamless user inter
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC_/_Cubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -70,5 +69,5 @@ I am an engineering student with a dual passion for building seamless user inter
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abrar-Abo-Auad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-Abo-Auad&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Abrar-Abo-Auad&theme=dark&hide_border=true&background=0D1117" width="48%" />
 </div>
