@@ -5,7 +5,7 @@
 <p> Entering my 4th year of Informatics Engineering at <b>Damascus University ('28)</b>. Specializing in <b>Artificial Intelligence</b> while actively building pixel-perfect, highly responsive frontend applications. </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK_HERE" target="_blank">
+  <a href="cv_link_comming_soon" target="_blank">
     <img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=google-drive&logoColor=FFD700" alt="CV" />
   </a>
   <a href="https://t.me/AbrarA_A1">
@@ -72,42 +72,3 @@ I am an engineering student with a dual passion for building seamless user inter
   <img src="https://github-readme-stats.vercel.app/api?username=Abrar-Abo-Auad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&v=1" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-Abo-Auad&theme=dark&hide_border=true&background=0D1117" width="48%" />
 </div>
-
----
-
-## ⚡ `<DeveloperIdentity />`
-```tsx
-import React from 'react';
-
-const DeveloperIdentity = () => {
-  const profile = {
-    name: "Abrar Mohammad Abu Awwad",
-    education: "Informatics Engineering @ Damascus University (Class of '28)",
-    major: "Artificial Intelligence 🧠",
-    primaryRole: "Frontend Developer (Flutter & React)",
-  };
-
-  const completedProjects = [
-    "LinCo LMS - Fully integrated Frontend Architecture & API Interactions"
-  ];
-
-  const learningQueue = ["TypeScript", "Next.js", "Machine Learning & AI Libraries"];
-
-  const executeDailyRoutine = (): string => {
-    return "🚀 Build UI -> 🔗 Test APIs -> 🧠 Study AI -> 🔁 Repeat";
-  };
-
-  return (
-    <div className="profile-container">
-      <h2>System Status: Online 🟢</h2>
-      <p><strong>Major Focus:</strong> {profile.major}</p>
-      <p><strong>Expertise:</strong> State Management (BLoC), Clean Architecture, API Integration</p>
-      
-      <div className="terminal-output">
-        <code>{executeDailyRoutine()}</code>
-      </div>
-    </div>
-  );
-};
-
-export default DeveloperIdentity;
