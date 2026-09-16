@@ -68,6 +68,6 @@ I am an engineering student with a dual passion for building seamless user inter
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrar-Abo-Auad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Abrar-Abo-Auad&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?user=Abrar-Abo-Auad&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-Abo-Auad&theme=dark&hide_border=true&background=0D1117" width="48%" />
 </div>
